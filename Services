@@ -1,0 +1,9 @@
+<section id="services">
+    <h2>Our Services</h2>
+    <ul>
+        <li>Wide selection of medical cannabis products</li>
+        <li>Knowledgeable staff to assist with your needs</li>
+        <li>Comfortable waiting area and secure cashier room</li>
+    </ul>
+    <img src="images/products.jpg" alt="Cannabis Products">
+</section>
