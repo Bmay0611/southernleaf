@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+nav {
+    background-color: #28a745;
+    padding: 10px;
+}
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+.hero {
+    height: 100vh;
+    background-image: url('https://source.unsplash.com/1600x900/?cannabis');
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-align: center;
+}
+.section {
+    padding: 50px 0;
+    text-align: center;
+}
+footer {
+    background-color: #28a745;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
